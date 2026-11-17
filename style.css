@@ -1,7 +1,11 @@
 body {
-  background-color: lightblue;
+  background-color: 0,200,50;
 }
 
-h1 {
-  color: darkblue;
+h2 {
+  color: yellow;
+}
+
+hr {
+  color: yellow;
 }
