@@ -1,11 +1,32 @@
 body {
-  background-color: green;
+    background-color: #2e8b00; /* Medium-dark green */
+    color: #000000;            /* Black body text */
+    font-family: "Times New Roman", Times, serif;
+    margin: 15px;
+}
+
+h1 {
+    color: #e6d800;
+    text-align: center;
+    margin-bottom: 10px;
 }
 
 h2 {
-  color: black;
+    font-size: 1.15em;
+    margin-top: 15px;
+    margin-bottom: 10px;
 }
 
 hr {
-  color: yellow;
+    border: 0;
+    height: 1px;
+    background-color: #cccccc;
+    margin: 15px 0;
+}
+
+img {
+    width: 110px;
+    height: auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
